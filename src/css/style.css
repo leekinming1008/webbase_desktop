@@ -1,0 +1,24 @@
+#desktop{
+    width: 100%;
+    background-image: url('https://business.inquirer.net/files/2018/02/Airbus-A350-1000-768x392.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    overflow: hidden;
+}
+
+#toolsbars{
+    bottom:5px;
+    height: 30px;
+    background-color: blue;
+}
+
+#toolsbars input{
+    padding-right: 5px;
+}
+
+#datetime{
+    height: 30px;
+    position: absolute;
+    right: 10px;
+}
+
