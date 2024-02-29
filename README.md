@@ -12,7 +12,7 @@ This is the pure Javascript program for web base personal desktop. It provides d
 <img width="523" alt="image" src="https://github.com/leekinming1008/webbase_desktop/assets/161342574/6d8436a8-4c7d-467b-b26d-cab98e7085af">
 
 ## Installation
-Make sure node.js and npm is installed on your system.
+Make sure node.js(Suggest to use version 16.x.x) and npm is installed on your system.
 
 1. `npm install`
 2. `npm start`
