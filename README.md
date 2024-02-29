@@ -17,3 +17,6 @@ Make sure node.js and npm is installed on your system.
 1. `npm install`
 2. `npm start`
 3. Browse to [http://localhost:4000](http://localhost:4000)
+
+## Remark
+This is my university course personal project in Linnaeus University (LNU)
